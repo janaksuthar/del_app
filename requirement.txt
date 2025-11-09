@@ -2,5 +2,4 @@ stremlit
 joblib 
 pandas
 scikit-learn
-pickle
 numpy
