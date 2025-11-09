@@ -1,1 +1,6 @@
-streamlit>=1.32.0
+stremlit
+joblib 
+pandas
+scikit-learn
+pickle
+numpy
