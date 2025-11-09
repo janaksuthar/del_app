@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import scikit-learn
 import pickle
 
 # Load the trained model
